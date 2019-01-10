@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "flaskWithVSCode"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "vscodeFlask/bin/python"
+	}
+}
